@@ -1,50 +1,48 @@
-# Простое чат-приложение
+# Chat App - Learning Archive
 
-Простое чат-приложение, созданное с использованием React, с возможностью отправки сообщений.
+> 📚 **Archive Notice:** This is a learning project from my early days (2024).
+> Kept for historical purposes. Check my pinned repositories for current work.
 
-## Установка
+---
 
-### Необходимые инструменты
+## Overview
+A simple chat application built with React, featuring message sending and file selection capabilities.
 
-- Node.js и npm (или Yarn), установленные на вашем компьютере.
+## Features
+- 💬 Send and display messages
+- 📎 File selection functionality
+- ⚛️ React component architecture
+- 🎨 Clean UI interface
 
-### Шаги
+## Tech Stack
+- React
+- Vite (development server)
+- JavaScript/JSX
 
-1. Клонируйте репозиторий:
+## Installation
+```bash
+git clone <repository-URL>
+cd chat-app
+npm install
+```
 
-    ```bash
-    git clone <URL-репозитория>
-    ```
+## Usage
 
-2. Перейдите в директорию проекта:
+Start development server:
+```bash
+npm run dev
+```
 
-    ```bash
-    cd chat-app
-    ```
+Open browser and navigate to `http://localhost:3000`
 
-3. Установите зависимости:
+## How to Use
+1. Type your message in the input field
+2. Click "Send" button to submit
+3. Use file picker to select files (expandable feature)
 
-    ```bash
-    npm install
-    # или
-    yarn install
-    ```
+---
 
-4. Запустите сервер разработки:
+**Status:** Archived - Learning Project  
+**Year:** 2024
 
-    ```bash
-    npm run dev
-    # или
-    yarn dev
-    ```
-
-## Использование
-
-1. Откройте браузер и перейдите по адресу `http://localhost:3000`.
-2. Вы увидите интерфейс чат-приложения.
-3. Введите сообщение и нажмите кнопку "Send" для отправки сообщения.
-4. Используйте поле выбора файла для выбора файла (эту функцию можно расширить).
-
-## Возможности
-
-- **Отправка сообщений**: Введите сообщение и отправьте его в чат.
+💡 **Looking for my current work?** Check out my pinned repositories for production-grade Web3 and trading applications.
